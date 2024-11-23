@@ -1,80 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d9d9a6-34d9-4a7d-8e63-d9a2a550b7e0" name="Changes" comment="idea" />
+    <list default="true" id="b00bc85c-120e-4563-b631-1199436fe786" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="idea" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Project" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/.jdks/openjdk-23.0.1/lib/src.zip!/java.base/java/io/FileNotFoundException.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_HIGHLIGHTING" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2oKSqBhelameJexQAEm2CnRCvge" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pG0yy0sExh4U6twxOYUvfP80fV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Animal.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.preview.features.used": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Батырхан/IdeaProjects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Батырхан/IdeaProjects/idea/src/Main.java",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Perforce",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="idea" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-23" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,167 +38,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9d9d9a6-34d9-4a7d-8e63-d9a2a550b7e0" name="Changes" comment="" />
-      <created>1730616966141</created>
+      <changelist id="b00bc85c-120e-4563-b631-1199436fe786" name="Changes" comment="" />
+      <created>1732377364387</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730616966141</updated>
-      <workItem from="1730616967377" duration="3004000" />
-      <workItem from="1730648111334" duration="3000000" />
-      <workItem from="1730720604919" duration="1012000" />
-      <workItem from="1730871850206" duration="7000" />
-      <workItem from="1730871896803" duration="1817000" />
-      <workItem from="1731041755803" duration="4477000" />
-      <workItem from="1731076248109" duration="1793000" />
-      <workItem from="1731137760697" duration="2685000" />
-      <workItem from="1731249392431" duration="952000" />
-      <workItem from="1731312543252" duration="2456000" />
-      <workItem from="1731328550843" duration="1740000" />
-      <workItem from="1731556195145" duration="1708000" />
-      <workItem from="1731560042954" duration="2845000" />
-      <workItem from="1731594662599" duration="3693000" />
-      <workItem from="1731651863735" duration="626000" />
-      <workItem from="1731653240190" duration="168000" />
-      <workItem from="1731690099155" duration="1566000" />
-      <workItem from="1731771748221" duration="2896000" />
-      <workItem from="1732193715127" duration="622000" />
-      <workItem from="1732277274987" duration="2420000" />
-      <workItem from="1732285209849" duration="8000" />
-      <workItem from="1732292004693" duration="570000" />
-      <workItem from="1732367181804" duration="1237000" />
-      <workItem from="1732375841507" duration="862000" />
-      <workItem from="1732376749011" duration="686000" />
+      <updated>1732377364387</updated>
+      <workItem from="1732377365902" duration="13000" />
     </task>
-    <task id="LOCAL-00001" summary="Первый коммит добавлен проект Java">
-      <option name="closed" value="true" />
-      <created>1732278155146</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1732278155146</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Первый коммит добавлен проект Java">
-      <option name="closed" value="true" />
-      <created>1732278339057</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1732278339057</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Calculator">
-      <option name="closed" value="true" />
-      <created>1732278384224</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1732278384224</updated>
-    </task>
-    <task id="LOCAL-00004" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732278425833</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1732278425833</updated>
-    </task>
-    <task id="LOCAL-00005" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732278435070</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1732278435070</updated>
-    </task>
-    <task id="LOCAL-00006" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732278828316</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1732278828316</updated>
-    </task>
-    <task id="LOCAL-00007" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732278879718</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1732278879718</updated>
-    </task>
-    <task id="LOCAL-00008" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732279060814</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1732279060814</updated>
-    </task>
-    <task id="LOCAL-00009" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732367322480</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1732367322480</updated>
-    </task>
-    <task id="LOCAL-00010" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732367349114</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1732367349114</updated>
-    </task>
-    <task id="LOCAL-00011" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732367410851</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1732367410851</updated>
-    </task>
-    <task id="LOCAL-00012" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732367446006</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1732367446006</updated>
-    </task>
-    <task id="LOCAL-00013" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732367693229</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1732367693229</updated>
-    </task>
-    <task id="LOCAL-00014" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732367833334</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1732367833334</updated>
-    </task>
-    <task id="LOCAL-00015" summary="idea">
-      <option name="closed" value="true" />
-      <created>1732377092589</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1732377092589</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Первый коммит добавлен проект Java" />
-    <MESSAGE value="Calculator" />
-    <MESSAGE value="idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea" />
   </component>
 </project>

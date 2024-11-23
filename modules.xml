@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/idea.iml" filepath="$PROJECT_DIR$/idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class/Class.iml" filepath="$PROJECT_DIR$/Class/Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Geomitry/Geomitry.iml" filepath="$PROJECT_DIR$/Geomitry/Geomitry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab/Lab.iml" filepath="$PROJECT_DIR$/Lab/Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pet/Pet.iml" filepath="$PROJECT_DIR$/Pet/Pet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pet-Project/Pet-Project.iml" filepath="$PROJECT_DIR$/Pet-Project/Pet-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project/Project.iml" filepath="$PROJECT_DIR$/Project/Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/Projects.iml" filepath="$PROJECT_DIR$/Projects/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User/User.iml" filepath="$PROJECT_DIR$/User/User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea/idea.iml" filepath="$PROJECT_DIR$/idea/idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
